@@ -1,0 +1,7 @@
+README.md
+setup.py
+House_rating.egg-info/PKG-INFO
+House_rating.egg-info/SOURCES.txt
+House_rating.egg-info/dependency_links.txt
+House_rating.egg-info/top_level.txt
+src/__init__.py
