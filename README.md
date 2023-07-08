@@ -30,3 +30,9 @@ python setup.py install
 ```
 this is used to trigger the setup.py
 ```
+
+# To install
+## to unstall sklearn
+```
+pip install scikit-learn; 
+```
